@@ -33,3 +33,7 @@ mvn clean test
 
 - `checkstyle-report` - Checkstyle XML report
 - `jacoco-report` - JaCoCo XML coverage report
+
+---
+*Student Name: Yasin Mekki (1458719)*<br>
+*Collaborators Consulted: Used Claude AI for Part 1 (Integration/Unit Tests & CI Workflow) and Gemini AI for Part 2 (Playwright UI Testing & Automation) when stuck on test structure and debugging.*
