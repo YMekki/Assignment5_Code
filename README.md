@@ -24,6 +24,7 @@ The GitHub Actions workflow (`.github/workflows/SE333_CI.yml`) runs on every pus
 4. **Artifact uploads** for both Checkstyle and JaCoCo reports
 
 ## How to Run Locally
+
 ```bash
 mvn clean test
 ```
@@ -32,20 +33,3 @@ mvn clean test
 
 - `checkstyle-report` - Checkstyle XML report
 - `jacoco-report` - JaCoCo XML coverage report
-```
-
-Save with `Ctrl+S`. Now run these commands in the terminal one at a time:
-```
-git add .
-```
-```
-git commit -m "Yasin + added tests"
-```
-```
-git branch -M main
-```
-```
-git remote add origin https://github.com/YMekki/Assignment5_Code.git
-```
-```
-git push -u origin main

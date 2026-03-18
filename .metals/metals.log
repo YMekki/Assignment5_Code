@@ -1735,3 +1735,61 @@ Mar 17, 2026 7:40:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellat
 WARNING: Unmatched cancel notification for request id 876
 Mar 17, 2026 7:40:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
 WARNING: Unmatched cancel notification for request id 879
+Mar 17, 2026 9:22:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 968
+2026.03.17 21:24:34 INFO  Created report: Optional[file:///C:/Users/Yasin/School/software%20testing/Assignment%205/Assignment5_Code/Assignment5_Code/src/test/java/org/example/Amazon/AmazonIntegrationTest.java]
+2026.03.17 21:24:34 INFO  QDox parse error in file:///C:/Users/Yasin/School/software%20testing/Assignment%205/Assignment5_Code/Assignment5_Code/src/test/java/org/example/Amazon/AmazonIntegrationTest.java (full report at: "C:\Users\Yasin\School\software testing\Assignment 5\Assignment5_Code\Assignment5_Code\.metals\.reports\metals-full\2026-03-17\r_qdox-error_(Assignment5_5fcode-test)_21-24-34-953.md")
+2026.03.17 21:24:35 INFO  compiling assignment5_code (10 java sources)
+2026.03.17 21:24:35 WARN  Unexpected javac output: error: invalid target release: 23
+Usage: javac <options> <source files>
+use --help for a list of possible options.
+2026.03.17 21:24:35 WARN  javac exited with exit code 2
+2026.03.17 21:24:35 INFO  time: compiled Assignment5_code in 0.24s
+2026.03.17 21:24:35 INFO  compiling assignment5_code (10 java sources)
+2026.03.17 21:24:35 WARN  Unexpected javac output: error: invalid target release: 23
+Usage: javac <options> <source files>
+use --help for a list of possible options.
+2026.03.17 21:24:35 WARN  javac exited with exit code 2
+2026.03.17 21:24:35 INFO  time: compiled Assignment5_code in 0.17s
+2026.03.17 21:24:49 INFO  compiling assignment5_code (10 java sources)
+2026.03.17 21:24:49 WARN  Unexpected javac output: error: invalid target release: 23
+Usage: javac <options> <source files>
+use --help for a list of possible options.
+2026.03.17 21:24:49 WARN  javac exited with exit code 2
+2026.03.17 21:24:49 INFO  time: compiled Assignment5_code in 0.2s
+2026.03.17 21:26:06 INFO  Created report: Optional[file:///C:/Users/Yasin/School/software%20testing/Assignment%205/Assignment5_Code/Assignment5_Code/src/main/java/org/example/Amazon/AmazonUnitTest.java]
+2026.03.17 21:26:06 INFO  QDox parse error in file:///C:/Users/Yasin/School/software%20testing/Assignment%205/Assignment5_Code/Assignment5_Code/src/main/java/org/example/Amazon/AmazonUnitTest.java (full report at: "C:\Users\Yasin\School\software testing\Assignment 5\Assignment5_Code\Assignment5_Code\.metals\.reports\metals-full\2026-03-17\r_qdox-error_(Assignment5_5fcode)_21-26-06-249.md")
+2026.03.17 21:26:06 INFO  compiling assignment5_code (11 java sources)
+2026.03.17 21:26:06 WARN  Unexpected javac output: error: invalid target release: 23
+Usage: javac <options> <source files>
+use --help for a list of possible options.
+2026.03.17 21:26:06 WARN  javac exited with exit code 2
+2026.03.17 21:26:06 INFO  time: compiled Assignment5_code in 0.19s
+2026.03.17 21:26:09 INFO  Created report: Optional[file:///C:/Users/Yasin/School/software%20testing/Assignment%205/Assignment5_Code/Assignment5_Code/src/main/java/org/example/Amazon/AmazonUnitTest.java]
+2026.03.17 21:26:09 INFO  empty definition using pc, found symbol in pc: _empty_/`<any>`#isEqualTo# (full report at: "C:\Users\Yasin\School\software testing\Assignment 5\Assignment5_Code\Assignment5_Code\.metals\.reports\metals-full\2026-03-17\r_empty-definition_(Assignment5_5fcode)_21-26-09-667.md")
+2026.03.17 21:26:25 INFO  compiling assignment5_code (11 java sources)
+2026.03.17 21:26:25 WARN  Unexpected javac output: error: invalid target release: 23
+Usage: javac <options> <source files>
+use --help for a list of possible options.
+2026.03.17 21:26:25 WARN  javac exited with exit code 2
+2026.03.17 21:26:25 INFO  time: compiled Assignment5_code in 0.17s
+2026.03.17 21:34:14 INFO  compiling assignment5_code (10 java sources)
+2026.03.17 21:34:14 WARN  Unexpected javac output: error: invalid target release: 23
+Usage: javac <options> <source files>
+use --help for a list of possible options.
+2026.03.17 21:34:14 WARN  javac exited with exit code 2
+2026.03.17 21:34:14 INFO  time: compiled Assignment5_code in 0.17s
+2026.03.17 21:42:03 INFO  Created report: Optional[file:///C:/Users/Yasin/School/software%20testing/Assignment%205/Assignment5_Code/Assignment5_Code/src/test/java/org/example/Amazon/AmazonUnitTest.java]
+2026.03.17 21:42:03 INFO  QDox parse error in file:///C:/Users/Yasin/School/software%20testing/Assignment%205/Assignment5_Code/Assignment5_Code/src/test/java/org/example/Amazon/AmazonUnitTest.java (full report at: "C:\Users\Yasin\School\software testing\Assignment 5\Assignment5_Code\Assignment5_Code\.metals\.reports\metals-full\2026-03-17\r_qdox-error_(Assignment5_5fcode-test)_21-42-03-637.md")
+2026.03.17 21:42:03 INFO  compiling assignment5_code (10 java sources)
+2026.03.17 21:42:03 WARN  Unexpected javac output: error: invalid target release: 23
+Usage: javac <options> <source files>
+use --help for a list of possible options.
+2026.03.17 21:42:03 WARN  javac exited with exit code 2
+2026.03.17 21:42:03 INFO  time: compiled Assignment5_code in 0.2s
+2026.03.17 21:42:28 INFO  compiling assignment5_code (10 java sources)
+2026.03.17 21:42:28 WARN  Unexpected javac output: error: invalid target release: 23
+Usage: javac <options> <source files>
+use --help for a list of possible options.
+2026.03.17 21:42:28 WARN  javac exited with exit code 2
+2026.03.17 21:42:28 INFO  time: compiled Assignment5_code in 0.17s
