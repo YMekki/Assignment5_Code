@@ -1,0 +1,272 @@
+{
+    "version": "1.4.0",
+    "project": {
+        "name": "Assignment5_code",
+        "directory": "C:\\Users\\Yasin\\School\\software testing\\Assignment 5\\Assignment5_Code\\Assignment5_Code",
+        "workspaceDir": "C:\\Users\\Yasin\\School\\software testing\\Assignment 5\\Assignment5_Code\\Assignment5_Code",
+        "sources": [
+            "C:\\Users\\Yasin\\School\\software testing\\Assignment 5\\Assignment5_Code\\Assignment5_Code\\src\\main\\java"
+        ],
+        "dependencies": [
+            
+        ],
+        "classpath": [
+            "C:\\Users\\Yasin\\School\\software testing\\Assignment 5\\Assignment5_Code\\Assignment5_Code\\target\\classes"
+        ],
+        "out": "C:\\Users\\Yasin\\School\\software testing\\Assignment 5\\Assignment5_Code\\Assignment5_Code\\target",
+        "classesDir": "C:\\Users\\Yasin\\School\\software testing\\Assignment 5\\Assignment5_Code\\Assignment5_Code\\target\\classes",
+        "resources": [
+            "C:\\Users\\Yasin\\School\\software testing\\Assignment 5\\Assignment5_Code\\Assignment5_Code\\src\\main\\resources"
+        ],
+        "java": {
+            "options": [
+                "-g",
+                "-target",
+                "23",
+                "-source",
+                "23",
+                "-encoding",
+                "UTF-8"
+            ]
+        },
+        "test": {
+            "frameworks": [
+                {
+                    "names": [
+                        "com.novocode.junit.JUnitFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.scalatest.tools.Framework",
+                        "org.scalatest.tools.ScalaTestFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.scalacheck.ScalaCheckFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.specs.runner.SpecsFramework",
+                        "org.specs2.runner.Specs2Framework",
+                        "org.specs2.runner.SpecsFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "utest.runner.Framework"
+                    ]
+                },
+                {
+                    "names": [
+                        "munit.Framework"
+                    ]
+                },
+                {
+                    "names": [
+                        "mill.testng.TestNGFramework"
+                    ]
+                }
+            ],
+            "options": {
+                "excludes": [
+                    
+                ],
+                "arguments": [
+                    {
+                        "args": [
+                            "-v",
+                            "-a"
+                        ],
+                        "framework": {
+                            "names": [
+                                "com.novocode.junit.JUnitFramework"
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        "platform": {
+            "name": "jvm",
+            "config": {
+                "home": "C:\\Program Files\\Amazon Corretto\\jdk21.0.6_7",
+                "options": [
+                    
+                ]
+            },
+            "mainClass": [
+                
+            ]
+        },
+        "resolution": {
+            "modules": [
+                {
+                    "organization": "org.junit.platform",
+                    "name": "junit-platform-commons",
+                    "version": "1.11.4",
+                    "artifacts": [
+                        {
+                            "name": "junit-platform-commons",
+                            "path": "C:\\Users\\Yasin\\.m2\\repository\\org\\junit\\platform\\junit-platform-commons\\1.11.4\\junit-platform-commons-1.11.4.jar"
+                        },
+                        {
+                            "name": "junit-platform-commons",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Yasin\\.m2\\repository\\org\\junit\\platform\\junit-platform-commons\\1.11.4\\junit-platform-commons-1.11.4-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.apiguardian",
+                    "name": "apiguardian-api",
+                    "version": "1.1.2",
+                    "artifacts": [
+                        {
+                            "name": "apiguardian-api",
+                            "path": "C:\\Users\\Yasin\\.m2\\repository\\org\\apiguardian\\apiguardian-api\\1.1.2\\apiguardian-api-1.1.2.jar"
+                        },
+                        {
+                            "name": "apiguardian-api",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Yasin\\.m2\\repository\\org\\apiguardian\\apiguardian-api\\1.1.2\\apiguardian-api-1.1.2-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.mockito",
+                    "name": "mockito-core",
+                    "version": "5.15.2",
+                    "artifacts": [
+                        {
+                            "name": "mockito-core",
+                            "path": "C:\\Users\\Yasin\\.m2\\repository\\org\\mockito\\mockito-core\\5.15.2\\mockito-core-5.15.2.jar"
+                        },
+                        {
+                            "name": "mockito-core",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Yasin\\.m2\\repository\\org\\mockito\\mockito-core\\5.15.2\\mockito-core-5.15.2-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.hsqldb",
+                    "name": "hsqldb",
+                    "version": "2.6.0",
+                    "artifacts": [
+                        {
+                            "name": "hsqldb",
+                            "path": "C:\\Users\\Yasin\\.m2\\repository\\org\\hsqldb\\hsqldb\\2.6.0\\hsqldb-2.6.0.jar"
+                        },
+                        {
+                            "name": "hsqldb",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Yasin\\.m2\\repository\\org\\hsqldb\\hsqldb\\2.6.0\\hsqldb-2.6.0-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "net.bytebuddy",
+                    "name": "byte-buddy",
+                    "version": "1.15.11",
+                    "artifacts": [
+                        {
+                            "name": "byte-buddy",
+                            "path": "C:\\Users\\Yasin\\.m2\\repository\\net\\bytebuddy\\byte-buddy\\1.15.11\\byte-buddy-1.15.11.jar"
+                        },
+                        {
+                            "name": "byte-buddy",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Yasin\\.m2\\repository\\net\\bytebuddy\\byte-buddy\\1.15.11\\byte-buddy-1.15.11-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.assertj",
+                    "name": "assertj-core",
+                    "version": "3.27.3",
+                    "artifacts": [
+                        {
+                            "name": "assertj-core",
+                            "path": "C:\\Users\\Yasin\\.m2\\repository\\org\\assertj\\assertj-core\\3.27.3\\assertj-core-3.27.3.jar"
+                        },
+                        {
+                            "name": "assertj-core",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Yasin\\.m2\\repository\\org\\assertj\\assertj-core\\3.27.3\\assertj-core-3.27.3-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.opentest4j",
+                    "name": "opentest4j",
+                    "version": "1.3.0",
+                    "artifacts": [
+                        {
+                            "name": "opentest4j",
+                            "path": "C:\\Users\\Yasin\\.m2\\repository\\org\\opentest4j\\opentest4j\\1.3.0\\opentest4j-1.3.0.jar"
+                        },
+                        {
+                            "name": "opentest4j",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Yasin\\.m2\\repository\\org\\opentest4j\\opentest4j\\1.3.0\\opentest4j-1.3.0-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.objenesis",
+                    "name": "objenesis",
+                    "version": "3.3",
+                    "artifacts": [
+                        {
+                            "name": "objenesis",
+                            "path": "C:\\Users\\Yasin\\.m2\\repository\\org\\objenesis\\objenesis\\3.3\\objenesis-3.3.jar"
+                        },
+                        {
+                            "name": "objenesis",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Yasin\\.m2\\repository\\org\\objenesis\\objenesis\\3.3\\objenesis-3.3-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "net.bytebuddy",
+                    "name": "byte-buddy-agent",
+                    "version": "1.15.11",
+                    "artifacts": [
+                        {
+                            "name": "byte-buddy-agent",
+                            "path": "C:\\Users\\Yasin\\.m2\\repository\\net\\bytebuddy\\byte-buddy-agent\\1.15.11\\byte-buddy-agent-1.15.11.jar"
+                        },
+                        {
+                            "name": "byte-buddy-agent",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Yasin\\.m2\\repository\\net\\bytebuddy\\byte-buddy-agent\\1.15.11\\byte-buddy-agent-1.15.11-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.junit.jupiter",
+                    "name": "junit-jupiter-api",
+                    "version": "5.11.4",
+                    "artifacts": [
+                        {
+                            "name": "junit-jupiter-api",
+                            "path": "C:\\Users\\Yasin\\.m2\\repository\\org\\junit\\jupiter\\junit-jupiter-api\\5.11.4\\junit-jupiter-api-5.11.4.jar"
+                        },
+                        {
+                            "name": "junit-jupiter-api",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Yasin\\.m2\\repository\\org\\junit\\jupiter\\junit-jupiter-api\\5.11.4\\junit-jupiter-api-5.11.4-sources.jar"
+                        }
+                    ]
+                }
+            ]
+        },
+        "tags": [
+            "library"
+        ]
+    }
+}
